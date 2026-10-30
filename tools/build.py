@@ -642,7 +642,10 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
     co = c['country']
     out['data/repo.json'] = json.dumps({'country': co['code'], 'name': co['name'], 'tz': co['tz'],
                                         'future_branch': co.get('future_branch', 'futuro'),
-                                        'publisher': co['publisher']['name']}, ensure_ascii=False, indent=1) + '\n'
+                                        'publisher': co['publisher']['name'],
+                                        # a declared history (as-enacted, in-force, ...): readers use it, never a guess
+                                        **({'history': co['history']} if co.get('history') else {})},
+                                       ensure_ascii=False, indent=1) + '\n'
     out['data/versions.json'] = json.dumps({'country': c['country']['code'], 'acts': [{
         'slug': a['slug'], 'short': a['short'], 'title': a['title'], 'url': a.get('url'),
         'versions': [{'from': v['from'], 'units': len(v['units']), 'source_url': v.get('source_url'),
