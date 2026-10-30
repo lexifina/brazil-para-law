@@ -1,0 +1,8 @@
+{
+  "path": "br-pa",
+  "code": "BR-PA",
+  "name": "Pará",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-para-law",
+  "build": "built: Constituição do Estado do Pará and Leis Complementares, from the Banco de Leis of the Assembleia Legislativa do Estado do Pará"
+}

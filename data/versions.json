@@ -1,0 +1,2007 @@
+{
+ "country": "BR-PA",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-PA",
+   "title": "Constituição do Estado do Pará",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/especificas/c_estaduallei__84635.pdf",
+   "versions": [
+    {
+     "from": "2025-09-10",
+     "units": 397,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/especificas/c_estaduallei__84635.pdf",
+     "sha256": "7e1075964ff2c82dc3c2f28fe3fb29292531a46ee2ee502642ea924fd8f4dcf5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-032",
+   "short": "LC 32/1997",
+   "title": "Lei Complementar nº 32, de 1997",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei32_1997_91434.pdf",
+   "versions": [
+    {
+     "from": "1997-07-09",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei32_1997_91434.pdf",
+     "sha256": "6cbd35b787d6784387c32d5d13a8a9aaffd4b86c66157f40a40e61326bad7adf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-033",
+   "short": "LC 33/1997",
+   "title": "Lei Complementar nº 33, de 1997",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei33_1997_95928.pdf",
+   "versions": [
+    {
+     "from": "1997-12-18",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei33_1997_95928.pdf",
+     "sha256": "126ea81ccc9c23afdb3c23eb10d504c0fd1405fc8298db323bcbc75a5dde812c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-034",
+   "short": "LC 34/1997",
+   "title": "Lei Complementar nº 34, de 1997",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei34_1997_41711.pdf",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei34_1997_41711.pdf",
+     "sha256": "a720f3e5a395615f1cec99d640ea810da4a67f3164c23b79f4f43012998a01e1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-035",
+   "short": "LC 35/1998",
+   "title": "Lei Complementar nº 35, de 1998",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei35_1998_25151.pdf",
+   "versions": [
+    {
+     "from": "1998-06-25",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei35_1998_25151.pdf",
+     "sha256": "79dc87a8f6ab08c13ae9e565a2fe0d0b16983b7b8c7401d862af73fa625becd6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-036",
+   "short": "LC 36/1998",
+   "title": "Lei Complementar nº 36, de 1998",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei36_1998_91148.pdf",
+   "versions": [
+    {
+     "from": "1998-12-08",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei36_1998_91148.pdf",
+     "sha256": "478c2938785fdc9f1666d879327fbd9a931aef0a4530317322ce46c8b5a31e14"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-037",
+   "short": "LC 37/2000",
+   "title": "Lei Complementar nº 37, de 2000",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei37_2000_76449.pdf",
+   "versions": [
+    {
+     "from": "2000-01-20",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei37_2000_76449.pdf",
+     "sha256": "3ca27ca7490193df4eed863f9638f8d0137af8f326da6703219298b53a39210f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-038",
+   "short": "LC 38/2001",
+   "title": "Lei Complementar nº 38, de 2001 (LEI COMPLEMENTAR Nº 038, DE 10 DE JULHO DE 2001. Introduz modificações na Lei complementar nº 21, de 28 de fevereiro de 1994. DOE Nº 29.496, de 12/07/2001.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei38_2001_69948.pdf",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei38_2001_69948.pdf",
+     "sha256": "912eee869c5d7716040c71ec0dcf7cd8c999e0507e15ff573fe8993f908f6f19"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-040",
+   "short": "LC 40/2002",
+   "title": "Lei Complementar nº 40, de 2002",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei40_2002_33786.pdf",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei40_2002_33786.pdf",
+     "sha256": "87d32a404033695d2b4b7c19e9b66d41dcce56668e8e713990699e01483c6f3e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-043",
+   "short": "LC 43/2002",
+   "title": "Lei Complementar nº 43, de 2002",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei43_2002_95982.pdf",
+   "versions": [
+    {
+     "from": "2002-12-31",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei43_2002_95982.pdf",
+     "sha256": "359ddd09cbd54b6690ce5c87d71f3919f67f3c9411689ef12302c021418da817"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-044",
+   "short": "LC 44/2003",
+   "title": "Lei Complementar nº 44, de 2003",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei44_2003_15167.pdf",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei44_2003_15167.pdf",
+     "sha256": "eac266d810f71c18a7b95d2309ce52ecb7b22df97e9aea94ed49b835b3591509"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-045",
+   "short": "LC 45/2003",
+   "title": "Lei Complementar nº 45, de 2003",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei45_2003_23555.pdf",
+   "versions": [
+    {
+     "from": "2003-05-06",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei45_2003_23555.pdf",
+     "sha256": "35fc80c438587be9b4b95af9fd6a8cde73262a063e93c0fc898c1df79e7f48ee"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-046",
+   "short": "LC 46/2004",
+   "title": "Lei Complementar nº 46, de 2004",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei46_2004_32598.pdf",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei46_2004_32598.pdf",
+     "sha256": "e16347c6d6b0904e4217e071a642ac6110dac6f952428d114c3330cbea99e47b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-047",
+   "short": "LC 47/2004",
+   "title": "Lei Complementar nº 47, de 2004",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei47_2004_31643.pdf",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei47_2004_31643.pdf",
+     "sha256": "299a7694346cf0821cf0b0ee41643dd84f3563c61a86da055db70552aa0e9e56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-048",
+   "short": "LC 48/2004",
+   "title": "Lei Complementar nº 48, de 2004",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei48_2004_64442.pdf",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei48_2004_64442.pdf",
+     "sha256": "a02cda9580f76ff6444c281d5a8b2793d584504b5ab4ed6ea50e83d2fee71072"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-049",
+   "short": "LC 49/2005",
+   "title": "Lei Complementar nº 49, de 2005",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei49_2005_14235.pdf",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei49_2005_14235.pdf",
+     "sha256": "44a1f6d54e10fa035f372241b06aa47bafd176f0bc2871ddc36c40525d29c736"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-051",
+   "short": "LC 51/2006",
+   "title": "Lei Complementar nº 51, de 2006",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei51_2006_14754.pdf",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei51_2006_14754.pdf",
+     "sha256": "8d41ddeef16ce0f4bf4489453b7add4db2d681136f645c507a78a4d3597fcb74"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-052",
+   "short": "LC 52/2006",
+   "title": "Lei Complementar nº 52, de 2006",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei52_2006_16377.pdf",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 15,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei52_2006_16377.pdf",
+     "sha256": "e802937ad65cc602947a1047ddb270aae8d87939168e6d64bf3d0463919a022e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-055",
+   "short": "LC 55/2006",
+   "title": "Lei Complementar nº 55, de 2006",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei55_2006_94597.pdf",
+   "versions": [
+    {
+     "from": "2006-02-15",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei55_2006_94597.pdf",
+     "sha256": "b5ce2d0c6545fca1838fffb0d334f84cb035f3068c8ebcf03bdb430dcf106d1f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-059",
+   "short": "LC 59/2006",
+   "title": "Lei Complementar nº 59, de 2006",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei59_2006_39822.pdf",
+   "versions": [
+    {
+     "from": "2006-12-29",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei59_2006_39822.pdf",
+     "sha256": "13af76c1e259aab482efc67c0bd30ab1dba71a77cb7416c51fd274dc080d178f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-060",
+   "short": "LC 60/2007",
+   "title": "Lei Complementar nº 60, de 2007 (LEI COMPLEMENTAR Nº 060, DE 16 DE JANEIRO DE 2007. Revoga o § 4º do art. 98 da Lei Complementar nº 057, de 6 de julho de 2006. DOE Nº 30.845, DE 17/01/2007.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei60_2007_99428.pdf",
+   "versions": [
+    {
+     "from": "2007-01-17",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei60_2007_99428.pdf",
+     "sha256": "b5b1ed198da2d63510b90fe3377f4ea3a4cfe80ae4ac94fc1b0311b0148cf438"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-062",
+   "short": "LC 62/2007",
+   "title": "Lei Complementar nº 62, de 2007",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei62_2007_71384.pdf",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 12,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei62_2007_71384.pdf",
+     "sha256": "3e3d7b335b88324403711043a561427e55752a5abe4c88704e7382c88227f0e3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-063",
+   "short": "LC 63/2007",
+   "title": "Lei Complementar nº 63, de 2007",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei63_2007_33629.pdf",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei63_2007_33629.pdf",
+     "sha256": "c5f8a10bcc642386030af30e969631ca84bea003b6ea6eeb8f7c2cc38dda1d46"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-064",
+   "short": "LC 64/2007",
+   "title": "Lei Complementar nº 64, de 2007",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei64_2007_69438.pdf",
+   "versions": [
+    {
+     "from": "2007-12-28",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei64_2007_69438.pdf",
+     "sha256": "44a3176d5494c696a2fbbffdf1ed1d7de2423893fc9480c24351de73c5a63239"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-065",
+   "short": "LC 65/2008",
+   "title": "Lei Complementar nº 65, de 2008",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei65_2008_73381.pdf",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 20,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei65_2008_73381.pdf",
+     "sha256": "079898bef2b47a3f81c3031a0de099d143c76f3c8efea18c5a63fa63e7f6d961"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-066",
+   "short": "LC 66/2008",
+   "title": "Lei Complementar nº 66, de 2008",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei66_2008_25791.pdf",
+   "versions": [
+    {
+     "from": "2008-10-21",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei66_2008_25791.pdf",
+     "sha256": "895063209966597bd49aa254f8c462c80e398ce944e1281433eaccf9f157bec4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-067",
+   "short": "LC 67/2008",
+   "title": "Lei Complementar nº 67, de 2008",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei67_2008_78843.pdf",
+   "versions": [
+    {
+     "from": "2008-11-07",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei67_2008_78843.pdf",
+     "sha256": "92473b93ae09c66544b96076895805b35b0eae7d0d555fd6b5d29e75980b9e6b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-068",
+   "short": "LC 68/2009",
+   "title": "Lei Complementar nº 68, de 2009",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei68_2009_17645.pdf",
+   "versions": [
+    {
+     "from": "2009-03-16",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei68_2009_17645.pdf",
+     "sha256": "b380cb36858e0e45b294e6ecf9283442e707f933e65140d28ac6dd66a31e8b5b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-069",
+   "short": "LC 69/2009",
+   "title": "Lei Complementar nº 69, de 2009",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei69_2009_43133.pdf",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei69_2009_43133.pdf",
+     "sha256": "ee101a02273d39ef0b430ac828f4ec144002252be08858e3c2c7385e2303dfca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-070",
+   "short": "LC 70/2010",
+   "title": "Lei Complementar nº 70, de 2010",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei70_2010_84339.pdf",
+   "versions": [
+    {
+     "from": "2010-01-08",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei70_2010_84339.pdf",
+     "sha256": "bc061882d2972753318449792b3547f0feae808e3b8c21095d0e96abee2122e5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-072",
+   "short": "LC 72/2010",
+   "title": "Lei Complementar nº 72, de 2010 (LEI COMPLEMENTAR Nº 072, DE 20 DE ABRIL DE 2010. Altera a Lei Complementar nº 027, de 19 de outubro de 1995. DOE Nº 31.656, de 30/04/2010.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei72_2010_13367.pdf",
+   "versions": [
+    {
+     "from": "2010-04-30",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei72_2010_13367.pdf",
+     "sha256": "a8c1ed61570e637fdf4e09dea6be619791f233a67a0a7a184e22c95842429dae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-073",
+   "short": "LC 73/2010",
+   "title": "Lei Complementar nº 73, de 2010 (LEI COMPLEMENTAR Nº 073, DE 28 DE ABRIL DE 2010. Altera o art. 2º da Lei Complementar nº 05/90, de 24 de janeiro de 1991. DOE Nº 31.661, de 07/05/2010.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei73_2010_49461.pdf",
+   "versions": [
+    {
+     "from": "2010-05-07",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei73_2010_49461.pdf",
+     "sha256": "cbbe99dde8bd161f83a5b3ed48b218a93ee4f9839ac9329a7565cca62af0a220"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-074",
+   "short": "LC 74/2010",
+   "title": "Lei Complementar nº 74, de 2010",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei74_2010_81889.pdf",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 20,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei74_2010_81889.pdf",
+     "sha256": "f023f3a10abbbce67f3fbee03ba531cc52f429b72710438f217266fcd6c92e90"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-076",
+   "short": "LC 76/2011",
+   "title": "Lei Complementar nº 76, de 2011 (LEI COMPLEMENTAR Nº 076, DE 28 DE DEZEMBRO DE 2011. Altera a Lei Complementar nº 027/95 e dá outras providências. DOE Nº 32.066, de 29/12/2011.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei76_2011_53992.pdf",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei76_2011_53992.pdf",
+     "sha256": "5a436087054e9be8d1a814a8a02c8896c4e7989d7086b7642d2fcb5fae6843e0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-077",
+   "short": "LC 77/2011",
+   "title": "Lei Complementar nº 77, de 2011",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei77_2011_72131.pdf",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei77_2011_72131.pdf",
+     "sha256": "69a1be0dccf2c6bb8736df58f2467dde204b5c12b7e4ef8fc379984ddeb201fd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-078",
+   "short": "LC 78/2011",
+   "title": "Lei Complementar nº 78, de 2011",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei78_2011_61947.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 90,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei78_2011_61947.pdf",
+     "sha256": "4b035392c52ea7e43b81fe444f3c13e47e546afb883eccbf2ad2cd19ddc1c54b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-079",
+   "short": "LC 79/2012",
+   "title": "Lei Complementar nº 79, de 2012",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei79_2012_24436.pdf",
+   "versions": [
+    {
+     "from": "2012-01-18",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei79_2012_24436.pdf",
+     "sha256": "3c955c0212a59536e34237915c926a013be36f88cb4869de8b66ab90fef175e7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-080",
+   "short": "LC 80/2012",
+   "title": "Lei Complementar nº 80, de 2012",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei80_2012_54255.pdf",
+   "versions": [
+    {
+     "from": "2012-04-09",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei80_2012_54255.pdf",
+     "sha256": "2eb085404e29468fcebb83cf2a25b5f16e9d951ad6e8d96928fbaef9f730ebe7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-083",
+   "short": "LC 83/2012",
+   "title": "Lei Complementar nº 83, de 2012",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei83_2012_42339.pdf",
+   "versions": [
+    {
+     "from": "2012-11-23",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei83_2012_42339.pdf",
+     "sha256": "e35274fc37170d5d3a4329c28d0ea3c605a606d0d4e67cc9c80740b3c1d498df"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-087",
+   "short": "LC 87/2013",
+   "title": "Lei Complementar nº 87, de 2013 (Acrescenta dispositivos à Lei Complementar nº 022, de 15 de março de 1994, e dá outras providências providências.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei87_2013_11962.pdf",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei87_2013_11962.pdf",
+     "sha256": "e9731ec049032ffe4d7c5f8d9d9095981376ca894c77f2fc01f2e6d2cbd4a0c2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-088",
+   "short": "LC 88/2013",
+   "title": "Lei Complementar nº 88, de 2013",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei88_2013_15872.pdf",
+   "versions": [
+    {
+     "from": "2013-09-23",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei88_2013_15872.pdf",
+     "sha256": "09fabce4258357384bc1abe76b46f7fd6ca6815c7354b3ed39ccd63cba2d09d9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-089",
+   "short": "LC 89/2013",
+   "title": "Lei Complementar nº 89, de 2013",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei89_2013_75848.pdf",
+   "versions": [
+    {
+     "from": "2013-12-26",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei89_2013_75848.pdf",
+     "sha256": "2878dfb92568180c5364a7d034ea108b9a1634652aaa2a43da249cac75595889"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-091",
+   "short": "LC 91/2014",
+   "title": "Lei Complementar nº 91, de 2014",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei91_2014_74841.pdf",
+   "versions": [
+    {
+     "from": "2014-01-14",
+     "units": 9,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei91_2014_74841.pdf",
+     "sha256": "221e569dc5ab29c6eb8ae594545cc64abfd0aa7f8bc3f28943e44d58c9edbcc1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-094",
+   "short": "LC 94/2014",
+   "title": "Lei Complementar nº 94, de 2014",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei94_2014_99693.pdf",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei94_2014_99693.pdf",
+     "sha256": "fc1b461313b0b53186d2e5fa2d0d171bffb9bd5c1f3a2e1d61a3b7db6d5d5e4d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-095",
+   "short": "LC 95/2014",
+   "title": "Lei Complementar nº 95, de 2014",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei95_2014_29451.pdf",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei95_2014_29451.pdf",
+     "sha256": "4273874713f57b36aa72a78d3c752e0756a5d2eab07ffaa2e58ba36ba0790bfc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-096",
+   "short": "LC 96/2014",
+   "title": "Lei Complementar nº 96, de 2014",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei96_2014_18577.pdf",
+   "versions": [
+    {
+     "from": "2014-07-18",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei96_2014_18577.pdf",
+     "sha256": "e93aaab9ec55262f4078605b1b942b3ba14a61b2823d1e220333fe0335e2e364"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-097",
+   "short": "LC 97/2014",
+   "title": "Lei Complementar nº 97, de 2014",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei97_2014_58441.pdf",
+   "versions": [
+    {
+     "from": "2014-12-12",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei97_2014_58441.pdf",
+     "sha256": "98783d34efe7662c115205bae8eefc477ae6a6e68216cd2d228bc9c63c1a142b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-101",
+   "short": "LC 101/2015",
+   "title": "Lei Complementar nº 101, de 2015",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei101_2015_52155.pdf",
+   "versions": [
+    {
+     "from": "2015-02-11",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei101_2015_52155.pdf",
+     "sha256": "d0fcd3692fee74fd467c9d278becf9230c565e9336463b6dcb949cba3dcde214"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-102",
+   "short": "LC 102/2015",
+   "title": "Lei Complementar nº 102, de 2015",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei102_2015_19615.pdf",
+   "versions": [
+    {
+     "from": "2015-10-02",
+     "units": 18,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei102_2015_19615.pdf",
+     "sha256": "ffe27a2f7cd03858e8578b0a8e166fd27ba0db0a66cd615770e009e9051cecde"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-103",
+   "short": "LC 103/2015",
+   "title": "Lei Complementar nº 103, de 2015",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei103_2015_35413.pdf",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei103_2015_35413.pdf",
+     "sha256": "6aaabcf4bc3911b37d67f69098a9c65ec876779e563267a008e0b25f7c704c5b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-104",
+   "short": "LC 104/2016",
+   "title": "Lei Complementar nº 104, de 2016",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei104_2016_57693.pdf",
+   "versions": [
+    {
+     "from": "2016-01-19",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei104_2016_57693.pdf",
+     "sha256": "1f6127e08f7df034c217947214fc0651ea1d45926e539010785a2a8c39c81dfa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-105",
+   "short": "LC 105/2016",
+   "title": "Lei Complementar nº 105, de 2016",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei105_2016_17391.pdf",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei105_2016_17391.pdf",
+     "sha256": "0085bb0acd18d4b8b43ea1052dec5efe2a3804cd35e2049ce04e71dbad4c3fc4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-106",
+   "short": "LC 106/2016",
+   "title": "Lei Complementar nº 106, de 2016",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei106_2016_74636.pdf",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei106_2016_74636.pdf",
+     "sha256": "98102f4b8656f9da63d5431701b08b4129465eca94d74c3f63078f182e94ef9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-107",
+   "short": "LC 107/2016",
+   "title": "Lei Complementar nº 107, de 2016 (Altera dispositivos da Lei Complementar nº 057, de 6 de julho de 2006 - Lei Orgânica do Ministério Público do Estado do Pará e dá outras providências.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei107_2016_62151.pdf",
+   "versions": [
+    {
+     "from": "2016-08-19",
+     "units": 7,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei107_2016_62151.pdf",
+     "sha256": "3785feb10ddb2efd7866436ad898b3fa4edc4da9aaa7601380fe3bee6a9d639a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-110",
+   "short": "LC 110/2016",
+   "title": "Lei Complementar nº 110, de 2016 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 039, DE 9 DE JANEIRO DE 2002, QUE INSTITUI O REGIME DE PREVIDÊNCIA ESTADUAL DO PARÁ, E DÁ OUTRAS PROVIDÊNCIAS.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei110_2016_46247.pdf",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei110_2016_46247.pdf",
+     "sha256": "16d5f7ab6b648e465cdee7879f6ab2e44327a6e192eb88d7b830ca04de8ebdea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-113",
+   "short": "LC 113/2017",
+   "title": "Lei Complementar nº 113, de 2017",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei113_2017_66744.pdf",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei113_2017_66744.pdf",
+     "sha256": "49aba2bc27b83dcad74219450d3662d47d41087d9ec382c2fc59ab494b6467a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-114",
+   "short": "LC 114/2017",
+   "title": "Lei Complementar nº 114, de 2017",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei114_2017_11348.pdf",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei114_2017_11348.pdf",
+     "sha256": "554fabe3c0d55d7af2959541d34971cf25818b4a2ff098389417e0bc3d76f2b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-115",
+   "short": "LC 115/2017",
+   "title": "Lei Complementar nº 115, de 2017",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei115_2017_94328.pdf",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei115_2017_94328.pdf",
+     "sha256": "dd622b9beb089dabdb4078797850c6ae00909a561907f0ee0b59f368da1229a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-116",
+   "short": "LC 116/2017",
+   "title": "Lei Complementar nº 116, de 2017 (DISPÕE SOBRE A ELEVAÇÃO DE ENTRÂNCIA DAS PROMOTORIAS DE JUSTIÇA E A RECLASSIFICAÇÃO DE CARGOS NA CARREIRA DO MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei116_2017_33545.pdf",
+   "versions": [
+    {
+     "from": "2017-08-24",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei116_2017_33545.pdf",
+     "sha256": "d553c54092d8664aab9f671b276d8f45addf9845f027e46e215ee2cd89128765"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-118",
+   "short": "LC 118/2018",
+   "title": "Lei Complementar nº 118, de 2018 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 057, DE 06 DE JULHO DE 2006 - LEI ORGÂNICA DO MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei118_2018_23393.pdf",
+   "versions": [
+    {
+     "from": "2018-09-14",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei118_2018_23393.pdf",
+     "sha256": "ef9a8eddc3e5143c4d603882706e40ca6fab63d073b0bc517261816ea9999fe7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-119",
+   "short": "LC 119/2018",
+   "title": "Lei Complementar nº 119, de 2018 (ALTERA DISPOSITIVO DA LEI COMPLEMENTAR Nº 057, DE 6 DE JULHO DE 2006 (LEI ORGÂNICA DO MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei119_2018_24759.pdf",
+   "versions": [
+    {
+     "from": "2018-10-02",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei119_2018_24759.pdf",
+     "sha256": "9ac8a151ee8ff6202c7b296bef25d6b44aacc7fbc9b03e8129a4081bd1e232a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-121",
+   "short": "LC 121/2019",
+   "title": "Lei Complementar nº 121, de 2019",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei121_2019_88138.pdf",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 13,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei121_2019_88138.pdf",
+     "sha256": "fee1db4e3959df9dcf7f9d96e7516370b029f7b0acad9f45e1dd90df1e1b1c33"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-122",
+   "short": "LC 122/2019",
+   "title": "Lei Complementar nº 122, de 2019",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei122_2019_91142.pdf",
+   "versions": [
+    {
+     "from": "2019-06-12",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei122_2019_91142.pdf",
+     "sha256": "6ef2aaa3b4c7c8c3c2ae553b39b4d082f10c47fa15b7f20eff90f224ae2387b3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-123",
+   "short": "LC 123/2019",
+   "title": "Lei Complementar nº 123, de 2019 (ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 057, DE 6 DE JULHO DE 2006 - LEI ORGÂNICA DO MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei123_2019_16947.pdf",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei123_2019_16947.pdf",
+     "sha256": "843d960289fa622f5628a859b24171265bde0d306b9fa9965f4191993bd1f2f8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-124",
+   "short": "LC 124/2019",
+   "title": "Lei Complementar nº 124, de 2019 (Altera a Lei Complementar nº 041, de 29 de agosto de 2002, e dá outras providências.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei124_2019_76488.pdf",
+   "versions": [
+    {
+     "from": "2019-11-19",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei124_2019_76488.pdf",
+     "sha256": "ee156269d217e5d5f43343f91719aff028874dcc18013db4454efcf8561e7169"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-125",
+   "short": "LC 125/2019",
+   "title": "Lei Complementar nº 125, de 2019",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei125_2019_83899.pdf",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei125_2019_83899.pdf",
+     "sha256": "677a98bce169699f3dae609e4e6a4d6c958e5395c1455b3391847131779ecf41"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-126",
+   "short": "LC 126/2020",
+   "title": "Lei Complementar nº 126, de 2020 (Altera a Lei Complementar nº 053, de 7 de fevereiro de 2006, que \"Dispõe sobre a Organização Básica e fixa o efetivo da Polícia Militar do Pará (PMPA)\".)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei126_2020_34212.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei126_2020_34212.pdf",
+     "sha256": "33a4319fc5d57372da26631555be994b312ef8f1a5dfdf270a750191f61c72da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-127",
+   "short": "LC 127/2020",
+   "title": "Lei Complementar nº 127, de 2020 (Altera dispositivos da Lei Complementar nº 057, de 6 de julho de 2006 (Lei Orgânica do Ministério Público do Estado do Pará).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei127_2020_34858.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei127_2020_34858.pdf",
+     "sha256": "d5323f802abc8d5c2e72ca5cbfbdc3fbddc59c2ce41c77f151e5fbcf4851ab5a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-128",
+   "short": "LC 128/2020",
+   "title": "Lei Complementar nº 128, de 2020 (Altera, acrescenta e revoga dispositivos da Lei Complementar nº 039, de 9 de janeiro de 2002.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei128_2020_84933.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei128_2020_84933.pdf",
+     "sha256": "a4851c1488cb65e0d8267763403b403e6fde0aa957d98f47222e124102439771"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-129",
+   "short": "LC 129/2020",
+   "title": "Lei Complementar nº 129, de 2020 (Altera, acrescenta e revoga dispositivos da Lei Complementar nº 111, de 28 de dezembro de 2016.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei129_2020_96628.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 19,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei129_2020_96628.pdf",
+     "sha256": "2bee0ec8b7834c39643cce4f55952e64298215028436f2ac22e1db953eca1670"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-130",
+   "short": "LC 130/2020",
+   "title": "Lei Complementar nº 130, de 2020",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei130_2020_91614.pdf",
+   "versions": [
+    {
+     "from": "2020-01-14",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei130_2020_91614.pdf",
+     "sha256": "ff6d67ad605de80388beacba1c2eb8d9701b55492ae2575d9cd0f03cee5b6448"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-131",
+   "short": "LC 131/2020",
+   "title": "Lei Complementar nº 131, de 2020",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei131_2020_95445.pdf",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei131_2020_95445.pdf",
+     "sha256": "ec48e6c4f5a770fe0aa1b23f021435b1b6cd7d68730a42a19918f57cd5aee523"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-132",
+   "short": "LC 132/2020",
+   "title": "Lei Complementar nº 132, de 2020 (Dispõe sobre a transformação da função gratificada de Chefe de Unidade de Apoio (Código MP.FG-3) em Função Gratificada de Pregoeiro (Código MP.FG-3).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei132_2020_16992.pdf",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 7,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei132_2020_16992.pdf",
+     "sha256": "b8e4189e301834190a30ef1c26fbe9f2392932209b2dbbe78f0b7453b4bd5e5f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-133",
+   "short": "LC 133/2020",
+   "title": "Lei Complementar nº 133, de 2020 (Trata sobre a destinação da Compensação Financeira pela Exploração de Recursos Minerais (CFEM) no Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei133_2020_72484.pdf",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 7,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei133_2020_72484.pdf",
+     "sha256": "6f8f0fa9466a301757db4e2b254d134d31beaad3408dfe0dea223cda5e93448d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-134",
+   "short": "LC 134/2020",
+   "title": "Lei Complementar nº 134, de 2020 (Altera a Lei Complementar nº 041, de 29 de agosto de 2002.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei134_2020_83348.pdf",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei134_2020_83348.pdf",
+     "sha256": "d7cc6c8237d85f5d031e1e6fbb9c271f15c623714be8c5e179423d58d875fcec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-135",
+   "short": "LC 135/2021",
+   "title": "Lei Complementar nº 135, de 2021",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei135_2021_36226.pdf",
+   "versions": [
+    {
+     "from": "2021-01-14",
+     "units": 29,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei135_2021_36226.pdf",
+     "sha256": "e293743198051c0a5abc45851219280a836ff5c6d68757cf2f04bf0a97213ccc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-136",
+   "short": "LC 136/2021",
+   "title": "Lei Complementar nº 136, de 2021 (Altera o art. 3º da Lei Complementar Estadual nº 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei136_2021_16731.pdf",
+   "versions": [
+    {
+     "from": "2021-03-17",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei136_2021_16731.pdf",
+     "sha256": "39ac7a5ef968e66d10c946727989c8716d74f0845175bb0eb522a64bb23cbc71"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-137",
+   "short": "LC 137/2021",
+   "title": "Lei Complementar nº 137, de 2021",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei137_2021_45426.pdf",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei137_2021_45426.pdf",
+     "sha256": "e56789f2c0fc7e22b84ec48a47f152bd1eb55f68069f31ab3283328e9b1bbf91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-138",
+   "short": "LC 138/2021",
+   "title": "Lei Complementar nº 138, de 2021 (Altera a Lei Complementar nº 057, de 06 de julho de 2006 (Lei Orgânica do Ministério Público do Estado do Pará).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei138_2021_24626.pdf",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei138_2021_24626.pdf",
+     "sha256": "41e57a11e272fe40aec4d5d45058275dce064eaeebe84bd75f74373e199db09b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-139",
+   "short": "LC 139/2021",
+   "title": "Lei Complementar nº 139, de 2021",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei139_2021_78568.pdf",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei139_2021_78568.pdf",
+     "sha256": "56000510ec414f2f896aaae3cbe01b800e9710fc065314cd688c9a1e682f9017"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-140",
+   "short": "LC 140/2021",
+   "title": "Lei Complementar nº 140, de 2021 (Altera o art. 3° da Lei Complementar Estadual n° 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei140_2021_22884.pdf",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei140_2021_22884.pdf",
+     "sha256": "879437d79ca197a6033ae808066b1fc62cded3e668d941382a2d74a3e29564d4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-141",
+   "short": "LC 141/2021",
+   "title": "Lei Complementar nº 141, de 2021",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei141_2021_95838.pdf",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei141_2021_95838.pdf",
+     "sha256": "7459d1191e63cf6337006ec98fe771fde9a4350a117cfc874a60241fdc47b950"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-143",
+   "short": "LC 143/2021",
+   "title": "Lei Complementar nº 143, de 2021 (Altera o art. 11 da Lei Complementar n° 081, de 26 de abril de 2012, Lei Orgânica do Tribunal de Contas do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei143_2021_61475.pdf",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei143_2021_61475.pdf",
+     "sha256": "6cd7e144d44152bda83ddba162ed798a226e56b2d72cfe52f5e06d954b1453db"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-145",
+   "short": "LC 145/2022",
+   "title": "Lei Complementar nº 145, de 2022",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei145_2022_46919.pdf",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei145_2022_46919.pdf",
+     "sha256": "9e06f90026e9ec51977889635d00db145889e8cf8577c98da86bbdca9802762a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-146",
+   "short": "LC 146/2022",
+   "title": "Lei Complementar nº 146, de 2022 (Dispõe sobre a revogação dos §§ 1° e 2° do art. 3° da Lei Complementar n° 14, de 17 de novembro de 1993.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei146_2022_82451.pdf",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei146_2022_82451.pdf",
+     "sha256": "1fc8763f0fbef5c9909aa2b0c5fbaf33b7bf6a5248d4cebc8b115b60688b82b5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-147",
+   "short": "LC 147/2022",
+   "title": "Lei Complementar nº 147, de 2022 (Altera a Lei Complementar Estadual nº 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei147_2022_83647.pdf",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei147_2022_83647.pdf",
+     "sha256": "2a0871881e54ca0b4576ab338e1e8e01f3400e41cd8ce6be7cea81f843735dc1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-148",
+   "short": "LC 148/2022",
+   "title": "Lei Complementar nº 148, de 2022 (Altera a Lei Complementar Estadual n° 039, de 9 de janeiro de 2002.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei148_2022_42396.pdf",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei148_2022_42396.pdf",
+     "sha256": "896e74961eba6e478f4d47c03df8339c99f58a412085eb9cc479bbd5ba16aa58"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-149",
+   "short": "LC 149/2022",
+   "title": "Lei Complementar nº 149, de 2022 (Altera dispositivos da Lei Complementar Estadual n° 142, de 16 de dezembro de 2021, e revoga a Lei Estadual n° 6.108, de 19 de janeiro de 1998.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei149_2022_34477.pdf",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 13,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei149_2022_34477.pdf",
+     "sha256": "e642c8d3e92ffb33b99033283d4e3df887e776c7804b151ac46300ad1c279188"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-150",
+   "short": "LC 150/2022",
+   "title": "Lei Complementar nº 150, de 2022 (Transforma cargos de provimento em comissão no quadro de servidores do Ministério Público do Estado do Pará (MPPA).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei150_2022_33615.pdf",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei150_2022_33615.pdf",
+     "sha256": "31b7f92c1d73df4133414f94d9a733375fb1bfc1cee3199a4ff7b48f2f22463d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-151",
+   "short": "LC 151/2022",
+   "title": "Lei Complementar nº 151, de 2022 (Altera dispositivos da Lei Complementar nº 09, de 27 de janeiro de 1992 - Lei Orgânica do Ministério Público de Contas do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei151_2022_41771.pdf",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 19,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei151_2022_41771.pdf",
+     "sha256": "99549109a8390e6d354f9c50c26ec37820f11d37625c0924482fe38ecf713a08"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-153",
+   "short": "LC 153/2022",
+   "title": "Lei Complementar nº 153, de 2022 (Altera a Lei Complementar Estadual nº 053, de 7 de fevereiro de 2006, que dispõe sobre a Organização Básica e fixa o efetivo da Polícia Militar do Pará (PMPA).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei153_2022_79775.pdf",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 18,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei153_2022_79775.pdf",
+     "sha256": "0b1f533cdb4c799d4a212a862ca975b2c1dc16d7bd03fc89604aedc72902483a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-154",
+   "short": "LC 154/2022",
+   "title": "Lei Complementar nº 154, de 2022 (Altera as Leis Complementares Estaduais nº 039, de 9 de janeiro de 2002, e nº 142, de 16 de dezembro de 2021.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei154_2022_18763.pdf",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei154_2022_18763.pdf",
+     "sha256": "99a28346e85973d5dd30526a4a7f48c7987604a5e890ae4e6d32d80953226ece"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-155",
+   "short": "LC 155/2022",
+   "title": "Lei Complementar nº 155, de 2022 (Altera a Lei Complementar Estadual nº 061, de 24 de julho de 2007, que institui a Fundação Amazônia de Amparo a Estudos e Pesquisas (FAPESPA).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei155_2022_22194.pdf",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 10,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei155_2022_22194.pdf",
+     "sha256": "2fa06afe75723a43cd42ff38049190b7feae82f78bc342393eae8f4cf054aa1f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-156",
+   "short": "LC 156/2022",
+   "title": "Lei Complementar nº 156, de 2022 (Dispõe sobre a alteração da Lei Complementar nº 109, de 27 de dezembro de 2016.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei156_2022_29452.pdf",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 74,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei156_2022_29452.pdf",
+     "sha256": "207d92e8657298e6f16dbe42a66132f4cb44873787282277f2fdc66be1ffad79"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-157",
+   "short": "LC 157/2022",
+   "title": "Lei Complementar nº 157, de 2022 (Altera a Lei Complementar Estadual nº 041, de 29 de agosto de 2002.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei157_2022_26227.pdf",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei157_2022_26227.pdf",
+     "sha256": "cc665cf0957ebc194d79d42847c2632fac5aaaac900b596e75413ca6e0fa76d0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-158",
+   "short": "LC 158/2023",
+   "title": "Lei Complementar nº 158, de 2023 (Dispõe sobre as vantagens funcionais dos Defensores Públicos do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei158_2023_94914.pdf",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei158_2023_94914.pdf",
+     "sha256": "01232993c0dcac5d5cc73b52a053e29a4b4a417e52fabaec32260c760dedad7b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-159",
+   "short": "LC 159/2023",
+   "title": "Lei Complementar nº 159, de 2023 (Altera dispositivos da Lei Complementar nº 057, de 6 de julho de 2006 (Lei Orgânica do Ministério Público do Estado do Pará).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei159_2023_42389.pdf",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei159_2023_42389.pdf",
+     "sha256": "e322373c8382c7c22973bec3580e36f838ce75a56449db0f9a326252c249c207"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-160",
+   "short": "LC 160/2023",
+   "title": "Lei Complementar nº 160, de 2023 (Altera o art. 3º da Lei Complementar Estadual nº 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei160_2023_59881.pdf",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei160_2023_59881.pdf",
+     "sha256": "2d543d2d5d785f7a76fceb40b2a4c0becc576cfb4be696cb7b5f1eaccf371e2a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-161",
+   "short": "LC 161/2023",
+   "title": "Lei Complementar nº 161, de 2023 (Cria a Fundação Rádio e Televisão Assembleia Legislativa do Pará (FRTPA).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei161_2023_69671.pdf",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 14,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei161_2023_69671.pdf",
+     "sha256": "32c24d4d98fbfb7ed8e03febe4e3c72d29f85611090a88ea06846df15f181e5d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-162",
+   "short": "LC 162/2023",
+   "title": "Lei Complementar nº 162, de 2023",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei162_2023_53191.pdf",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 13,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei162_2023_53191.pdf",
+     "sha256": "bc9823be13540e347628dbeb29344866a7c1d5174bf7bff7c796a0ddcc4cb240"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-164",
+   "short": "LC 164/2023",
+   "title": "Lei Complementar nº 164, de 2023 (Altera a Lei Complementar nº 027, de 19 de outubro de 1995, que Instituiu a Região Metropolitana de Belém.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei164_2023_92548.pdf",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei164_2023_92548.pdf",
+     "sha256": "3e13acdaa80bfad9fa6a2439be3917911ad365a8cdf957a8b7b9130a2f1825ea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-165",
+   "short": "LC 165/2023",
+   "title": "Lei Complementar nº 165, de 2023",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei165_2023_54342.pdf",
+   "versions": [
+    {
+     "from": "2023-05-02",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei165_2023_54342.pdf",
+     "sha256": "eccc06b0e99e1fae30604bfb6bfae561658f2bb09179088955e612fbe3f4d448"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-166",
+   "short": "LC 166/2023",
+   "title": "Lei Complementar nº 166, de 2023 (Revoga a Lei Complementar Estadual nº 06, de 27 de fevereiro de 1991.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei166_2023_82991.pdf",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei166_2023_82991.pdf",
+     "sha256": "ea82886cb60f2394ea15cd4af82fe9828d26b23d631ae0f867576aded9f39729"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-167",
+   "short": "LC 167/2023",
+   "title": "Lei Complementar nº 167, de 2023",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei167_2023_13661.pdf",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei167_2023_13661.pdf",
+     "sha256": "5821116185efb9663b04ed63471f8d1f9ae1e83e736d324b056de96fa828c864"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-168",
+   "short": "LC 168/2023",
+   "title": "Lei Complementar nº 168, de 2023",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei168_2023_71365.pdf",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei168_2023_71365.pdf",
+     "sha256": "d2209a2fa0b1e70165f28a78866507313677662bd059b87a134980bd12447576"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-169",
+   "short": "LC 169/2023",
+   "title": "Lei Complementar nº 169, de 2023",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei169_2023_49292.pdf",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 9,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei169_2023_49292.pdf",
+     "sha256": "798c0386329c0e6fd036206600eb411c83751a883ac65f01100939756744bae3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-170",
+   "short": "LC 170/2023",
+   "title": "Lei Complementar nº 170, de 2023 (Altera o art. 3º da Lei Complementar Estadual nº 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei170_2023_13539.pdf",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei170_2023_13539.pdf",
+     "sha256": "014e9b5ce9b71349522dce0a38628388ba7c31bf420b962c2e6fd1ad3ade9f54"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-171",
+   "short": "LC 171/2023",
+   "title": "Lei Complementar nº 171, de 2023 (Institui a Microrregião de Águas e Esgoto do Pará (MRAE) e sua estrutura de governança.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei171_2023_51275.pdf",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 26,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei171_2023_51275.pdf",
+     "sha256": "d90bac110828654324b647f5ddab204b12018c78051bcd2ae020c6cee7bbbe3f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-172",
+   "short": "LC 172/2024",
+   "title": "Lei Complementar nº 172, de 2024 (Altera o art. 3º da Lei Complementar Estadual nº 131, de 16 de abril de 2020.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei172_2024_42136.pdf",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 14,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei172_2024_42136.pdf",
+     "sha256": "3fb8955f566298c8975deeaefe9c751b985f0f6139b9d6fefb91c1105d7c08f9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-173",
+   "short": "LC 173/2024",
+   "title": "Lei Complementar nº 173, de 2024 (Altera dispositivos da Lei Complementar nº 057, de 06 de julho de 2006 (Lei Orgânica do Ministério Público do Estado do Pará).)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei173_2024_42316.pdf",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei173_2024_42316.pdf",
+     "sha256": "4cd7f5476dac14f2b7d4700e74c8efc4e98c263e6fcf2d78e2d1533e0199d2ab"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-174",
+   "short": "LC 174/2024",
+   "title": "Lei Complementar nº 174, de 2024 (Dispõe sobre a elevação de Entrância das Promotorias de Justiça de Ananindeua, Santarém e Marabá.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei174_2024_64914.pdf",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei174_2024_64914.pdf",
+     "sha256": "8295ea36e63c94bde370e7a46dd7ab81ca32f79ea76c6b946057ef22f873e9a3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-175",
+   "short": "LC 175/2024",
+   "title": "Lei Complementar nº 175, de 2024",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei175_2024_34757.pdf",
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei175_2024_34757.pdf",
+     "sha256": "58f0980b6e44a352323dafa4555f3adbd9097ed51ae1495a95437a0a200dec47"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-177",
+   "short": "LC 177/2024",
+   "title": "Lei Complementar nº 177, de 2024",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei177_2024_57157.pdf",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei177_2024_57157.pdf",
+     "sha256": "e7f36c1cf141e47fd5a9eacbc03a957845f9b8f054e5406e63508d5420078b80"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-178",
+   "short": "LC 178/2024",
+   "title": "Lei Complementar nº 178, de 2024 (Altera dispositivos da Lei Complementar Estadual nº 57, de 06 de julho de 2006.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei178_2024_58767.pdf",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei178_2024_58767.pdf",
+     "sha256": "9a25aa5f1a8afae79a20e4a7000f52e9d15b10ac3f8804b7c84b227d15dbd7dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-179",
+   "short": "LC 179/2024",
+   "title": "Lei Complementar nº 179, de 2024 (Dispõe sobre a elevação à terceira entrância das comarcas de Ananindeua, Marabá e Santarém, no âmbito do Poder Judiciário do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929113604_554d3e29.pdf",
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "units": 17,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929113604_554d3e29.pdf",
+     "sha256": "1437ae1b8fa9007e6f80c540a1f25e97b2b5e89478ba3ee636564d3fd6c255d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-180",
+   "short": "LC 180/2024",
+   "title": "Lei Complementar nº 180, de 2024",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei180_2024_61739.pdf",
+   "versions": [
+    {
+     "from": "2024-11-06",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei180_2024_61739.pdf",
+     "sha256": "186d4f5d3960750d8c5e3c5426331175709e908ec76dbd91d3cbd3f351998fdc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-181",
+   "short": "LC 181/2024",
+   "title": "Lei Complementar nº 181, de 2024 (Altera a Lei Complementar Estadual nº 094, de 4 de abril de 2014.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei181_2024_33714.pdf",
+   "versions": [
+    {
+     "from": "2024-11-07",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei181_2024_33714.pdf",
+     "sha256": "2f802e94bc9f1d32708b0c60b1ca2eee2e3425c833a2959cec0dc9f079de08b5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-182",
+   "short": "LC 182/2024",
+   "title": "Lei Complementar nº 182, de 2024 (Altera dispositivos da Lei Complementar Estadual nº 057, de 6 de julho de 2006.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei182_2024_81665.pdf",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei182_2024_81665.pdf",
+     "sha256": "17f2d61b40142f403cad3a6ba27c4a348b5efe013a1e9af4214c2e53b7a2e172"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-184",
+   "short": "LC 184/2025",
+   "title": "Lei Complementar nº 184, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei184_2025_58374.pdf",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei184_2025_58374.pdf",
+     "sha256": "a60f33d37163ebdb4f6048b4416cdc9ce41ed2b803e5f4e6c4b2eca3c1686671"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-185",
+   "short": "LC 185/2025",
+   "title": "Lei Complementar nº 185, de 2025 (Dispõe sobre a criação de cargos de Procurador de Justiça.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei185_2025_32364.pdf",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei185_2025_32364.pdf",
+     "sha256": "390a1ef1365b9c2fa7f3c40a7898a724e0a3c9a4c7772cffdd67af9cd34ebc14"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-186",
+   "short": "LC 186/2025",
+   "title": "Lei Complementar nº 186, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei186_2025_39492.pdf",
+   "versions": [
+    {
+     "from": "2025-03-20",
+     "units": 24,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei186_2025_39492.pdf",
+     "sha256": "61c7ee4b7f37592334ae85f09a5e7c6fff4b2901498d50562085953af9ba78c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-187",
+   "short": "LC 187/2025",
+   "title": "Lei Complementar nº 187, de 2025 (Eleva a Comarca de Mocajuba à segunda entrância na estrutura do Poder Judiciário do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei187_2025_27582.pdf",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei187_2025_27582.pdf",
+     "sha256": "a446d6c0b59439c917c697dde50883be8138ca57813d2088af87a38c1d172066"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-188",
+   "short": "LC 188/2025",
+   "title": "Lei Complementar nº 188, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei188_2025_63461.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei188_2025_63461.pdf",
+     "sha256": "954a48236183f36e2c40ebf930fc5714aa0ac08bb2eebf20aaa4e36044176348"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-189",
+   "short": "LC 189/2025",
+   "title": "Lei Complementar nº 189, de 2025 (Altera dispositivos da Lei Complementar Estadual nº 057, de 6 de julho de 2006.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei189_2025_46377.pdf",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei189_2025_46377.pdf",
+     "sha256": "9ec2bff0803454a45ba4fe38086142551eadf2359e1b81dd9d1a96eeddf6e7c6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-190",
+   "short": "LC 190/2025",
+   "title": "Lei Complementar nº 190, de 2025 (Estabelece normas para a responsabilidade na gestão ambiental no Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260521145555_1e96b7c3.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 15,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260521145555_1e96b7c3.pdf",
+     "sha256": "1626e37cc8bb2ffe3e94079444fd0fc7e7d6a9e88dab68983d3b37fc85469749"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-191",
+   "short": "LC 191/2025",
+   "title": "Lei Complementar nº 191, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei191_2025_35494.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 12,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei191_2025_35494.pdf",
+     "sha256": "42c481b6fa3e8bc754bafde9fd4228fecd4d6a5098d53aea56f6f2ef70ced8cb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-192",
+   "short": "LC 192/2025",
+   "title": "Lei Complementar nº 192, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei192_2025_32936.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei192_2025_32936.pdf",
+     "sha256": "6fc3170253646358706e35cf922d1ee4cc0bfc26821099063e759871ebb84fd5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-193",
+   "short": "LC 193/2025",
+   "title": "Lei Complementar nº 193, de 2025 (Altera a Lei Complementar nº 142, de 16 de dezembro de 2021, que institui o Sistema de Proteção Social dos Militares do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei193_2025_37541.pdf",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei193_2025_37541.pdf",
+     "sha256": "b75de3b1fe18ff061084424e57bbcdc799ba6292cee13ba93ee3d527ea376712"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-194",
+   "short": "LC 194/2025",
+   "title": "Lei Complementar nº 194, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei194_2025_79178.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei194_2025_79178.pdf",
+     "sha256": "8c4080972451e66616633b84eda4c802be01255d7845e5bcef67f425cb0b0e94"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-195",
+   "short": "LC 195/2025",
+   "title": "Lei Complementar nº 195, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei195_2025_12933.pdf",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei195_2025_12933.pdf",
+     "sha256": "ee97bea93a21f3868ec478a9255def26e13470c9c0d883647a98770324374ed8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-196",
+   "short": "LC 196/2025",
+   "title": "Lei Complementar nº 196, de 2025 (Dispõe sobre a incorporação do Ministério Público de Contas do Estado pelo Tribunal de Contas do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei196_2025_75156.pdf",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 16,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei196_2025_75156.pdf",
+     "sha256": "f0c06b0164c99d4cb85d2adf3b7234b4bb7e8f4bfa15b362925b30b4966f48a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-197",
+   "short": "LC 197/2025",
+   "title": "Lei Complementar nº 197, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei197_2025_94541.pdf",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 30,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei197_2025_94541.pdf",
+     "sha256": "6d331367b6b4a3501f8b52e03794cc84f42fbef4689a738e45c8e30c3a66efa0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-198",
+   "short": "LC 198/2025",
+   "title": "Lei Complementar nº 198, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei198_2025_96414.pdf",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei198_2025_96414.pdf",
+     "sha256": "529c1b7e511c9536c5ab7be4642ca500ca7d06b24a562881bfedf6ae227bcebd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-199",
+   "short": "LC 199/2025",
+   "title": "Lei Complementar nº 199, de 2025 (Dispõe sobre a carreira dos Procuradores do Ministério Público de Contas dos Municípios do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei199_2025_81721.pdf",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 35,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei199_2025_81721.pdf",
+     "sha256": "80bb5e126c78f0c2961ceb1f01030736d001738e75f33290df175c7e63e1f579"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-200",
+   "short": "LC 200/2025",
+   "title": "Lei Complementar nº 200, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei200_2025_44933.pdf",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei200_2025_44933.pdf",
+     "sha256": "7f4d952d157d9df1bcda60280fcd4bbad34d1ee0df30a174782273bbf59c2ae9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-201",
+   "short": "LC 201/2025",
+   "title": "Lei Complementar nº 201, de 2025",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei201_2025_42548.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 4,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei201_2025_42548.pdf",
+     "sha256": "972ad9fdae2861f3d9a60c2436e5466c9c6a6fe5ddc35cc364f6f9bbae526ad7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-202",
+   "short": "LC 202/2026",
+   "title": "Lei Complementar nº 202, de 2026",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei202_2026_78219.pdf",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 8,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei202_2026_78219.pdf",
+     "sha256": "f76d836a0a3219a3b4295a1baf7ee89356a3833b21219b53216a9237f31ac30b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-203",
+   "short": "LC 203/2026",
+   "title": "Lei Complementar nº 203, de 2026",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei203_2026_84343.pdf",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei203_2026_84343.pdf",
+     "sha256": "38c662d1326e51c59cc761343f04a7390109105f3b25ae42041431536aec35dd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-205",
+   "short": "LC 205/2026",
+   "title": "Lei Complementar nº 205, de 2026 (Altera a Lei Complementar Estadual nº 190, de 5 de junho de 2025, que estabelece normas para a responsabilidade na gestão ambiental no Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260521130329_37e7ad81.pdf",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260521130329_37e7ad81.pdf",
+     "sha256": "e9ec32cde6b5ef9b379d6125dcf8eca716d8117b0bcb10600c3f04e0badc75ba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-206",
+   "short": "LC 206/2026",
+   "title": "Lei Complementar nº 206, de 2026",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929112926_6a3e9298.pdf",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929112926_6a3e9298.pdf",
+     "sha256": "4ff9ddceaa72d1ba4feb5ad3ac6e21b6a574777c162175e8e9193304aa5dc766"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-207",
+   "short": "LC 207/2026",
+   "title": "Lei Complementar nº 207, de 2026",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929113119_cb632d63.pdf",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 3,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260929113119_cb632d63.pdf",
+     "sha256": "56ec578798ff0eed6cb763a16f6fdc5f7d44674ae70a3cafcb4de14686771ccc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-208",
+   "short": "LC 208/2026",
+   "title": "Lei Complementar nº 208, de 2026 (Altera a Lei Estadual nº 5.008, de 10 de dezembro de 1981 que dispõe sobre o Código de Organização Judiciária do Estado do Pará.)",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260722094620_149ec062.pdf",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 12,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260722094620_149ec062.pdf",
+     "sha256": "0cc29db767a6c47f7a120a5011e1f253d9a41e325be69ef750ee5ff8bca4ec65"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-209",
+   "short": "LC 209/2026",
+   "title": "Lei Complementar nº 209, de 2026",
+   "url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260901102155_23382170.pdf",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 6,
+     "source_url": "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260901102155_23382170.pdf",
+     "sha256": "acb3088ff50b9d7323a7f099ccdef630f80a4955397dc419feeb5253a69fc2d9"
+    }
+   ]
+  }
+ ]
+}
